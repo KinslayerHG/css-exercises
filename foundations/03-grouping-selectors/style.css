@@ -1,0 +1,11 @@
+
+.Left {
+    background-color: #000000; color: #fff;
+}
+.Right {
+        background-color: #ffff00;
+}
+.Right,
+.Left{
+    font-size: 28px; font-family: Helvetica, 'Times New Roman', sans-serif;
+}
