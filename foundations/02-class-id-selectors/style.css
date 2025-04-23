@@ -5,7 +5,7 @@
     font-size: 24px;
 }
 #Line-two {
-color: #0000ff; font-size: 36px;
+color: #0000ff; font-size: 36px; font-weight: bold;
 }
 #Line-four {
     background-color: #90ee90; font-size: 24px; font-weight: bold;
